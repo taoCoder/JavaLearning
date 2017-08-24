@@ -5,8 +5,8 @@ package Chapter20170811;
  */
 public class DogTest {
     public static void main(String[] args){
-        Dog erHa = new Dog("小吴","黑色","二哈");
-        erHa.eat();
-        erHa.wagTail();
+        Dog erHa = new Dog("小吴","黑色","二哈"); //这是一个对象
+        erHa.eat(); //调用对象的方法
+        erHa.wagTail();//调用对象的方法
     }
 }

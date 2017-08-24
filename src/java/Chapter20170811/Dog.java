@@ -1,6 +1,7 @@
 package Chapter20170811;
 
 /**
+ * 这是一个类，描述狗的特征和行为
  * Created by huangtao8 on 2017/8/24.
  */
 public class Dog {
